@@ -1,0 +1,19 @@
+{
+  "name": "viem-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "tsx ./index.ts"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "viem": "latest"
+  },
+  "devDependencies": {
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}
